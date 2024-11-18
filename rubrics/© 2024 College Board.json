@@ -1,0 +1,96 @@
+{
+    "rubric": {
+        "Analysis of Text": {
+            "total_points": "30",
+            "criteria": [
+                {
+                    "description": "Demonstrates a thorough understanding of the text",
+                    "points": "10",
+                    "coefficient": "3",
+                    "notes": "Must include specific textual evidence"
+                },
+                {
+                    "description": "Analyzes the author's use of rhetorical strategies",
+                    "points": "10",
+                    "coefficient": "2",
+                    "notes": "Identifies and explains the impact of strategies"
+                },
+                {
+                    "description": "Evaluates the effectiveness of the argument",
+                    "points": "10",
+                    "coefficient": "1",
+                    "notes": "Considers the logic and persuasiveness of the argument"
+                }
+            ]
+        },
+        "Synthesis of Sources": {
+            "total_points": "25",
+            "criteria": [
+                {
+                    "description": "Incorporates multiple sources to develop a coherent position",
+                    "points": "10",
+                    "coefficient": "2",
+                    "notes": "Must synthesize information from sources"
+                },
+                {
+                    "description": "Effectively integrates quotations and paraphrases",
+                    "points": "7",
+                    "coefficient": "2",
+                    "notes": "Demonstrates a seamless integration of sources"
+                },
+                {
+                    "description": "Cites sources accurately",
+                    "points": "8",
+                    "coefficient": "1",
+                    "notes": "Follows proper citation format"
+                }
+            ]
+        },
+        "Argument and Persuasion": {
+            "total_points": "20",
+            "criteria": [
+                {
+                    "description": "Develops a clear and coherent argument",
+                    "points": "8",
+                    "coefficient": "2",
+                    "notes": "Presents a logical progression of ideas"
+                },
+                {
+                    "description": "Uses persuasive language and rhetorical devices effectively",
+                    "points": "7",
+                    "coefficient": "2",
+                    "notes": "Engages the reader and enhances the argument"
+                },
+                {
+                    "description": "Addresses counterarguments and refutes opposing views",
+                    "points": "5",
+                    "coefficient": "2",
+                    "notes": "Anticipates and responds to potential objections"
+                }
+            ]
+        },
+        "Control of Language": {
+            "total_points": "25",
+            "criteria": [
+                {
+                    "description": "Demonstrates a command of language and style",
+                    "points": "10",
+                    "coefficient": "2",
+                    "notes": "Uses varied and precise language"
+                },
+                {
+                    "description": "Maintains a consistent tone and voice",
+                    "points": "7",
+                    "coefficient": "2",
+                    "notes": "Adapts tone to suit the purpose and audience"
+                },
+                {
+                    "description": "Demonstrates control of conventions",
+                    "points": "8",
+                    "coefficient": "1",
+                    "notes": "Follows standard grammar and punctuation rules"
+                }
+            ]
+        }
+    }
+}
