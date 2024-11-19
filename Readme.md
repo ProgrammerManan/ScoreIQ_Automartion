@@ -1,8 +1,8 @@
 
 # Automating rubric and score generation
 
-The evaluation returns detailed feedback, including points earned, points missed, and comprehensive explanations. The part of code comprises three main components: generating automated structured rubrics, scoring responses based on these rubrics, and genrating an "Scored Rubric" based on student responce in JSON format.
-### This code is ready for visualization!
+The evaluation returns detailed feedback, including points earned, points missed, and comprehensive explanations. The part of code comprises three main components: generating automated structured rubrics, scoring responses based on these rubrics, and generating a "Scored Rubric" based on student's response, all in a JSON format (to get data easily for visualization).
+    ### This code is ready to use for visualization!
 
 
 
